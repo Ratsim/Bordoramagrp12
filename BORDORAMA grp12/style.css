@@ -1,0 +1,40 @@
+.container{
+	padding-top: 20px; 
+	}
+
+h1{
+	font-family: 'Playfair Display SC', serif;
+	text-align: center;
+	font-size: 30px;
+	color: #2C3D65;
+	margin-bottom: 20px;
+
+}
+
+p{
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.justify-content-md-center{
+	font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.box {
+    display: flex;
+    flex-flow: row wrap;
+    flex-grow: 2;
+    justify-content: space-around;
+    align-content: space-around;
+    height: 100px;
+       }
+
+@media screen and (max-width: 425px) {
+
+	.box{
+		flex-direction: column;
+	}
+
