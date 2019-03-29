@@ -1,0 +1,11 @@
+Pour le back : 
+le CRUD pour les articles est fonctionnel (fait par Thierry / antoine)
+le CRUD pour les angles est partiellement fonctionnel (create et delete fonctionne mais pas update) (fait par Lucas / Martin)
+
+Marche à suivre
+  L'index vous présente les articles, vous pouvez le découvrir entierement en cliquant sur celui-ci.
+Vous pourrez donc le supprimer ou le modifier.
+  Dans la navbar le logo vous ramene vers l'index et les boutons drop down vous permettent de découvrir les différents angles
+mais aussi de créer un nouvel articles ou un nouvel angles.
+
+Bonne utilisation
